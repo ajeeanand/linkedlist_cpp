@@ -1,5 +1,5 @@
 a = 10
-b = 20
+b = 40
 #perform logical AND
 c = a < 5 &&  b < 10
 #perform logical OR
