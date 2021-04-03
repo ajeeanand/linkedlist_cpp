@@ -8,3 +8,4 @@ d = a < 5 || b < 4
 e = !(a < 5 && b < 10)
 #perform modulus of a and b
 f = a%b
+print 'The logical AND of a and b is: ',c
