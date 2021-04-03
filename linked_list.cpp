@@ -11,3 +11,4 @@ f = a%b
 print 'The logical AND of a and b is: ',c
 print 'The logical OR of a and b is: ',d
 print 'The logical NOT of a and b is: ',e
+print 'The modulus of a and b is: ',f
