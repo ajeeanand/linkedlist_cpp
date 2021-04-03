@@ -9,3 +9,5 @@ e = !(a < 5 && b < 10)
 #perform modulus of a and b
 f = a%b
 print 'The logical AND of a and b is: ',c
+print 'The logical OR of a and b is: ',d
+print 'The logical NOT of a and b is: ',e
